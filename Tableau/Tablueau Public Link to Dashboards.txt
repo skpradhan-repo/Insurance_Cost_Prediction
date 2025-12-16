@@ -1,0 +1,7 @@
+Summary Statistics : https://public.tableau.com/app/profile/samaresh.pradhan8545/viz/SummaryStatistics_15122025_Scaler_DSML/SummaryStatistics?publish=yes
+
+Premium Pricing Analysis  : https://public.tableau.com/app/profile/samaresh.pradhan8545/viz/PremiumPricingAnalysis-Dashboard/PremiumPricingAnalysis?publish=yes
+
+Risk Factor Analysis : https://public.tableau.com/app/profile/samaresh.pradhan8545/viz/PremiumPricingAnalysis-Dashboard/RiskFactorsAnalysisDashboard?publish=yes
+
+Demographic Insights Dashboard : https://public.tableau.com/app/profile/samaresh.pradhan8545/viz/PremiumPricingAnalysis-Dashboard/DemographicInsightsDashboard?publish=yes
