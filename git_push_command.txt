@@ -9,3 +9,18 @@ git push -u origin main
 git remote add origin https://github.com/skpradhan-repo/Insurance_Cost_Prediction.git
 git branch -M main
 git push -u origin main
+
+https://medium.com/@samarescv/health-insurance-cost-prediction-from-data-to-a-deployed-ml-app-0e89e433a8ed?postPublishedType=initial
+
+https://medium.com/@samarescv/health-insurance-cost-prediction-from-data-to-a-deployed-ml-app-0e89e433a8ed
+
+
+https://www.linkedin.com/posts/samaresh-pradhan-jee_health-insurance-cost-prediction-from-data-activity-7406743956555948032-B6Qj?utm_source=share&utm_medium=member_desktop&rcm=ACoAABp0c5YBDdhmKKG3-ZoIdj7J3_dQvWA5iUA
+
+https://github.com/skpradhan-repo/Insurance_Cost_Prediction
+
+https://www.datascienceportfol.io/samarescv/projects/1
+
+https://www.loom.com/share/44d8565aa0134a5184d8f817ea9f9807
+
+https://www.loom.com/share/4aeb388502a34ca6ad6b5beeb7098856
