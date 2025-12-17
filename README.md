@@ -457,6 +457,8 @@ insurance-cost-prediction/
 
 
 ---
+<img width="1134" height="1959" alt="image" src="https://github.com/user-attachments/assets/b0fff7ad-1c7c-4840-aae4-13928530925f" />
+
 
 
 
